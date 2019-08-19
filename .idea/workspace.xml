@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../DraftProject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blackbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../facialrecognition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github-requester" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-accounts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-asset-storage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-asset-transformations" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-auto-tagging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-embedded-data" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-facial-recognition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-frontend-orchestration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-index" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-metadata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../platform-shared-testing" value="PREVIEW" />
+        <entry key="$USER_HOME$/platform-asset-storage" value="PREVIEW" />
+        <entry key="$USER_HOME$/platform-shared" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4762" />
+    <option name="width" value="1004" />
+    <option name="height" value="1166" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
