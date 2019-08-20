@@ -11,8 +11,8 @@ describe('My First Test', function() {
 
     // Get an input, type into it and verify that the value has been updated
     cy.get('#searchInput')
-        .type('Feral pig{enter}')
+        .type('Feral pig{entr}')
 
-    cy.url().should('include', '/wiki/Feral_pig')
+    cy.url().should('inlude', '/wiki/Feral_pig')
   })
 })
