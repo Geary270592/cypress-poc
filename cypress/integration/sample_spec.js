@@ -1,9 +1,8 @@
 /// <reference types="Cypress" />
 
 describe('My First Test', function() {
-  it('clicks the link "type"', function() {
+  it('Navigates through multiple wikipedia pages', function() {
     cy.visit("/Jehan_Buhan")
-
 
     cy.contains('1948 Summer Olympics').click()
 
