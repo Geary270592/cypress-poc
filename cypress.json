@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://en.wikipedia.org/wiki/"
+  "baseUrl": "https://en.wikipedia.org/wiki/",
+  "integrationFolder": "./node_modules/.bin/cypress/integration"
 }
