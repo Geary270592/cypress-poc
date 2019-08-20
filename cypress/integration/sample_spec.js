@@ -13,6 +13,6 @@ describe('My First Test', function() {
     cy.get('#searchInput')
         .type('Feral pig{enter}')
 
-    cy.url().should('inlude', '/wiki/Feral_pig')
+    cy.url().should('include', '/wiki/Feral_pig')
   })
 })
